@@ -14,4 +14,4 @@ Two operation modes of the RFA plugin for Annotation Pro are available:
 1. Audio Layer RFA -
 The Audio Layer RFA mode uses the wave file currently open in Annotation Pro as input for the analysis. 
 3. Chart Layer RFA - 
-The Chart Layer RFA uses Annotation Pro chart layer as input. The data in the chart layer must be in numerical format and the number can represent any types of values (frequency, distance, intensity, space etc.). Example chart layers for analysis could be the layers representing movement variability obtained from Motion Capture, e.g.  imported from BVH files (see the BVH import summary here: Import BHV to Annotation Pro). 
+The Chart Layer RFA uses Annotation Pro chart layer as input. The data in the chart layer must be in numerical format and the number can represent any types of values (frequency, distance, intensity, space, movement speed etc.). Example chart layers for analysis could be the layers representing body movement variability obtained from Motion Capture, e.g. imported from BVH (Biovision Hierarchy) files. 
